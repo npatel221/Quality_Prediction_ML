@@ -9,7 +9,7 @@ Submitted By:
  - Khurram Shafiq
 
 ### Introduction
-The main goal is to use this data to predict how much impurity is in the ore concentrate. As this impurity is measured every hour, if we can predict how much silica (impurity) is in the ore concentrate, we can help the engineers, giving them early information to take actions (empowering!). Hence, they will be able to take corrective actions in advance (reduce impurity, if it is the case) and also help the environment (reducing the amount of ore that goes to tailings as you reduce silica in the ore concentrate).
+The main goal is to use this data to predict how much impurity is present in the ore concentrate. The impurity is present in the form of Silica. Hence, the primary goal is to predict % Silica present in the Iron Ore concentrate. The impurity is measured every hour, if we can predict how much silica (impurity) is in the ore concentrate, it can help the engineers, giving them early information to take actions and make process improvements. Hence, they will be able to take corrective actions in advance (reduce impurity, if it is the case) and also help the environment (reducing the amount of ore that goes to tailings as you reduce silica in the ore concentrate).
 
 ### Dataset
 The data is collected from machine sensors every 20 seconds and we have data from a 6 month range (march of 2017 until september of 2017). The dataset contains 737,453 instances and 24 attributes with the target varibale being % Silica Concentrate. Our team decided to take 2 different approaches to see which approach will perform better. Due to the large dataset, we decided to create a resampled dataset that aggregated the sensor values to every 1 hour from 20 seconds, which became our second approach.
