@@ -20,5 +20,5 @@ The main goal is to use this data to predict how much impurity is in the ore con
 ### Presentation
 - [PowerPoint](https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/presentation/Revised%20Final%20Presentation.ppsx)
 - [PDF](https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/Final%20Presentation_COPY.pdf)
-- [Watch Recorded Video](https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/Final%20Presentation%20Video.mp4)
+- [YouTube Video](https://www.youtube.com/watch?v=fvTKZxlI1gE)
 - [GoogleDrive](https://drive.google.com/drive/folders/1ifrMKTualLm222UuDd08rrx23e8hT1DN?usp=sharing)
