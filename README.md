@@ -17,6 +17,8 @@ Submitted By:
 ### Conclusion
 
 ### Presentation
-Powerpoint Presentation: (https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/presentation/Revised%20Final%20Presentation.ppsx)
+Powerpoint Presentation: (https://github.com/nishp763/SCS-ML-3253---Final-Project/presentation/Revised%20Final%20Presentation.ppsx)
+
 PDF Copy: 
+
 Video Link:
