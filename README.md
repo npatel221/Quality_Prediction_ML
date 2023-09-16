@@ -21,7 +21,7 @@ We started off by splitting the data into training and testing sets. We then bui
 After using various algorithm’s, we documented their performance using the RMSE score, R^2, and accuracy. We found out that the Random Forest Regressor performed better on the larger dataset that was sampled every 20 seconds and the Gradient Boosting Regressor performed better on the resampled dataset that aggregated the values every hour from the original dataset. We were able to predict the % Silica Concentrate with an accuracy of 93.80% on the large original dataset and an accuracy of 62.89% on the small resampled dataset. 
 
 ### Presentation
-- [PowerPoint](https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/presentation/Revised%20Final%20Presentation.ppsx)
-- [PDF](https://github.com/nishp763/SCS-ML-3253---Final-Project/blob/master/Final%20Presentation_COPY.pdf)
+- [PowerPoint](https://github.com/npatel221/SCS-ML-3253---Final-Project/blob/master/presentation/Revised%20Final%20Presentation.ppsx)
+- [PDF](https://github.com/npatel221/SCS-ML-3253---Final-Project/blob/master/Final%20Presentation_COPY.pdf)
 - [YouTube Video](https://www.youtube.com/watch?v=fvTKZxlI1gE)
 - [GoogleDrive](https://drive.google.com/drive/folders/1ifrMKTualLm222UuDd08rrx23e8hT1DN?usp=sharing)
